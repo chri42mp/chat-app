@@ -1,9 +1,10 @@
-import "./App.css";
+import "./style.scss";
+import Register from "./components/Register";
 
 function App() {
   return (
     <>
-      <h1>Chat application</h1>
+      <Register />
     </>
   );
 }
