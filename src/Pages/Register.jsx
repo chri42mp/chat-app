@@ -23,7 +23,7 @@ export default function Register() {
           </label>
           <button>Tilmed dig</button>
         </form>
-        <p>Har du ikke en bruger? Login</p>
+        <p>Har du en bruger? Login</p>
       </div>
     </div>
   );
